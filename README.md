@@ -1,15 +1,15 @@
 # Open Cities Summit
 
 * http://opencitiessummit.org
-* Madrid, October 5th, 2016
+* [Medialab-Prado](http://medialab-prado.es), Madrid, October 5th, 2016
 
 ## Web
-Design created by [Martín González](https://twitter.com/martgnz) for
+- Design created by [Martín González](https://twitter.com/martgnz) for
 [Spanish Data Journalism Conference JPD16](http://jpd16.okfn.es)
-
-Powered by [Bootstrap](http://getbootstrap.com/), web framework by
+- Powered by [Bootstrap](http://getbootstrap.com/), web framework by
 [Mark Otto](https://twitter.com/mdo) and
 [Jacob Thorton](https://twitter.com/fat) for Twitter.
+- Adapted by [Adolfo Antón](https://twitter.com/adolflow)
 
 ## Development
 
@@ -27,4 +27,4 @@ Uses jQuery,
 ## Collaborate
 
 If you want to make a proposal for the web design or functionality or
-you find some mistake or bug, please [make an **issue**](https://github.com/OKFN-Spain/jpd16/issues/new)
+you find some mistake or bug, please [make an **issue**](https://github.com/medialab-prado/opencitiessummit/issues/new)
