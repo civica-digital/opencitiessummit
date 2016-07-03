@@ -408,33 +408,33 @@ ul {
 
 .btn-primary {
   color: #fff;
-  background-color: #337ab7;
-  border-color: #2e6da4;
+  background-color: #e93f33/*337ab7*/;
+  border-color: #f4291a/*2e6da4*/;
 }
 
 .btn-primary:focus {
   color: #fff;
-  background-color: #286090;
-  border-color: #122b40;
+  background-color: #a40000/*286090*/;
+  border-color: #ff0000;
 }
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #286090;
-  border-color: #204d74;
+  background-color: #a40000/*286090*/;
+  border-color: #ff0000/*204d74*/;
 }
 
 .btn-primary:active {
   color: #fff;
-  background-color: #286090;
-  border-color: #204d74;
+  background-color: #a40000;
+  border-color: #ff0000;
 }
 
 .btn-primary:active:focus,
 .btn-primary:active:hover {
   color: #fff;
-  background-color: #204d74;
-  border-color: #122b40;
+  background-color: #a400000;;
+  border-color: #f4291a;
 }
 
 .btn-primary:active {
@@ -727,7 +727,7 @@ h4 {
 }
 
 .u-blue {
-    color: #0077b9;
+    color: #00b9f2; /*0077b9;*/
 }
 
 /* Header */
@@ -795,7 +795,7 @@ h4 {
   align-items: center;
   justify-content: center;
   text-align: center;
-  background: url(/img/debod.jpg) no-repeat bottom center scroll;
+  background: url(/img/retiro.jpg) no-repeat bottom center scroll;
   background-position: bottom;
   background-size: cover;
   color: rgb(255,255,255);
@@ -804,21 +804,39 @@ h4 {
 .introHeadline {
   font-family: "Nimbus Sans L Bold", "Helvetica", "GTimes New Roman", Sans-serif;
   font-weight: 700;
-  font-size: 3rem;
+  font-size: 2rem;
   padding-top: 2rem;
   line-height: 0.9;
   text-shadow: 0px 2px 15px rgba(0,0,0,0.8);
 }
 
 .introCopy {
-  font-size: 2rem;
-  text-shadow: 0px 2px 15px rgba(0,0,0,0.8);
+    font-size: 5rem;
+    font-weight: 600;
+    text-shadow: 0px 2px 15px rgba(0,0,0,0.8);
+
 }
 
 .introCredit {
   position: absolute;
   bottom: 0.5rem;
   right: 1rem;
+}
+
+.introCite {
+    font-family: Serif;
+    font-weight: 200;
+    font-size: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+    line-height: 1.8;
+    text-shadow: 0px 2px 15px rgba(0,0,0,0.2);
+    color: #0077b9;
+}
+
+.introCite span {
+    font-family: "Nimbus Sans L Bold", "Helvetica", "Times New Roman", Sans-serif;
+    
 }
 
 .btn {
@@ -853,16 +871,18 @@ h4 {
   font-size: 1.5rem;
 }
 
-/*
-* Schedule
-*/
+/* Structure */
+#structure h3 {
+    color: #0077b9;
+}
+/* * Schedule */
 
-.schedule {
-  background: #5C258D;
+.schedule, .call {
+    background: #00b9f2; /*5C258D;*/
   /* fallback for old browsers */
   background: -webkit-linear-gradient(to left top, #5C258D , #4389A2);
   /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to left top, #5C258D , #4389A2);
+  background: linear-gradient(to left top, #00b9f2 , #4389A2);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   color: rgb(255,255,255);
   display: block;
@@ -979,12 +999,12 @@ h4 {
   color: #1E5E99;
 }
 
-.org {
-  background: #EC6F66;
+.call {
+  background: #00b9f2/*EC6F66*/;
   /* fallback for old browsers */
-  background: -webkit-linear-gradient(to left, #EC6F66 , #F3A183);
+  background: -webkit-linear-gradient(to left, #00b9f2 , #0077b9);
   /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to left, #EC6F66 , #F3A183);
+  background: linear-gradient(to left, #00b9f2 , #0077b9/*F3A183*/);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
@@ -1002,13 +1022,24 @@ h4 {
 }
 
 .okfn {
-  width: 300px;
+  width: 200px;
 }
 
 .medialab {
-  width: 100px;
+  width: 300px;
 }
 
+.ogp {
+
+
+}
+.datakind {
+    width: 200px;
+}
+
+.odc {
+    width: 300px;
+}
 .mapText {
   position: relative;
 }
@@ -1057,7 +1088,7 @@ h4 {
   }
 
   .introCopy {
-    font-size: 4rem;
+      /*font-size: 4rem;*/
   }
 }
 
