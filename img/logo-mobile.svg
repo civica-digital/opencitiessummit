@@ -38,12 +38,12 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="2"
-     inkscape:cx="53.047794"
+     inkscape:cx="-78.702206"
      inkscape:cy="-24.132637"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"><sodipodi:guide
+     inkscape:current-layer="Layer_1"><sodipodi:guide
        position="0,45.949147"
        orientation="1,0"
        id="guide4367" /><sodipodi:guide
@@ -91,12 +91,12 @@
        x="88.673164"
        y="32.265949"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:25px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Bold Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start"><tspan
-   style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   style="fill:#00b9f2;fill-opacity:1;stroke:none;stroke-opacity:1"
    id="tspan4355">Open</tspan> Cities <tspan
-   style="fill:#0000ff;fill-opacity:1"
+   style="fill:#00b9f2;fill-opacity:1"
    id="tspan4361">Summit</tspan></tspan></text>
 <circle
-     style="fill:none;fill-opacity:0.97907948;stroke:#0000ff;stroke-width:1.17803526;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;fill-opacity:0.97907948;stroke:#00b9f2;stroke-width:1.17803526;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path3521"
      cx="114.85022"
      cy="66.587708"
@@ -136,10 +136,11 @@
          sodipodi:role="line"
          x="95.818741"
          y="79.934128"
-         id="tspan3396"><tspan
+         id="tspan3396"
+         style="fill:#00b9f2;fill-opacity:1"><tspan
            x="95.818741"
            y="79.934128"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:34.87891388px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Bold Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:34.87891388px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Bold Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#00b9f2;fill-opacity:1"
            id="tspan3398">O</tspan></tspan></text>
 </g><text
      xml:space="preserve"
@@ -159,7 +160,7 @@
        sodipodi:role="line"
        x="143.67455"
        y="73.924896"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:17.5px;line-height:100%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Bold Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:17.5px;line-height:100%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Bold Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#00b9f2;fill-opacity:1"
        id="tspan4369">Medialab-Prado</tspan><tspan
        sodipodi:role="line"
        x="143.67455"
