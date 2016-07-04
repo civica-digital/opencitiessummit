@@ -568,12 +568,20 @@ ul {
   content: "\f086";
 }
 
-.fa-coffee:before {
-  content: "\f0f4";
+.fa-unlock:before {
+  content: "\f09c";
 }
 
-.fa-desktop:before {
-  content: "\f108";
+.fa-map-o:before {
+  content: "\f278";
+}
+
+.fa-bicycle:before {
+  content: "\f206";
+}
+
+.fa-line-chart:before {
+  content: "\f201";
 }
 
 .fa-code:before {
