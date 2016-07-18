@@ -9,7 +9,7 @@
 - Powered by [Bootstrap](http://getbootstrap.com/), web framework by
 [Mark Otto](https://twitter.com/mdo) and
 [Jacob Thorton](https://twitter.com/fat) for Twitter.
-- Adapted by [Adolfo Antón](https://twitter.com/adolflow)
+- Adapted by [Adolfo Antón](https://twitter.com/adolflow) and Martín González.
 
 ## Development
 
@@ -27,4 +27,6 @@ Uses jQuery,
 ## Collaborate
 
 If you want to make a proposal for the web design or functionality or
-you find some mistake or bug, please [make an **issue**](https://github.com/medialab-prado/opencitiessummit/issues/new)
+you find some mistake or bug, please:
+- [make an **issue**](https://github.com/medialab-prado/opencitiessummit/issues/new)
+- collaborate with [us](https://github.com/orgs/medialab-prado/teams/opencitiessummit)
