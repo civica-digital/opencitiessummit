@@ -20,7 +20,7 @@
    sodipodi:docname="logo-mobile.svg"><metadata
      id="metadata181"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
      id="defs179" /><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -30,16 +30,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-width="1368"
+     inkscape:window-height="704"
      id="namedview177"
      showgrid="false"
      inkscape:snap-page="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="2"
-     inkscape:cx="-78.702206"
-     inkscape:cy="-24.132637"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="118.15988"
+     inkscape:cy="32.195407"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -91,12 +91,12 @@
        x="88.673164"
        y="32.265949"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:25px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Bold Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start"><tspan
-   style="fill:#00b9f2;fill-opacity:1;stroke:none;stroke-opacity:1"
-   id="tspan4355">Open</tspan> Cities <tspan
-   style="fill:#00b9f2;fill-opacity:1"
+   style="fill:#0077b9;fill-opacity:1;stroke:none;stroke-opacity:1"
+   id="tspan4355">#Open</tspan>Cities<tspan
+   style="fill:#0077b9;fill-opacity:1;opacity:0.99999999"
    id="tspan4361">Summit</tspan></tspan></text>
 <circle
-     style="fill:none;fill-opacity:0.97907948;stroke:#00b9f2;stroke-width:1.17803526;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;fill-opacity:0.97907948;stroke:#0077b9;stroke-width:1.17803526;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path3521"
      cx="114.85022"
      cy="66.587708"
@@ -137,10 +137,10 @@
          x="95.818741"
          y="79.934128"
          id="tspan3396"
-         style="fill:#00b9f2;fill-opacity:1"><tspan
+         style="fill:#0077b9;fill-opacity:1"><tspan
            x="95.818741"
            y="79.934128"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:34.87891388px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Bold Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#00b9f2;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:34.87891388px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Bold Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0077b9;fill-opacity:1"
            id="tspan3398">O</tspan></tspan></text>
 </g><text
      xml:space="preserve"
@@ -160,27 +160,11 @@
        sodipodi:role="line"
        x="143.67455"
        y="73.924896"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:17.5px;line-height:100%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Bold Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#00b9f2;fill-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:17.5px;line-height:100%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Bold Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0077b9;fill-opacity:1"
        id="tspan4369">Medialab-Prado</tspan><tspan
        sodipodi:role="line"
        x="143.67455"
        y="91.424896"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:17.5px;line-height:100%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Bold Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start"
        id="tspan4377">Madrid (Spain)</tspan></text>
-<text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="156.12125"
-     y="228.95244"
-     id="text4371"
-     sodipodi:linespacing="125%"
-     transform="matrix(0.81578525,-0.57835493,0.57835493,0.81578525,0,0)"
-     inkscape:export-filename="/home/flow/Documentos/curro/medialab-prado/tpc/open-cities/text4371.png"
-     inkscape:export-xdpi="300"
-     inkscape:export-ydpi="300"><tspan
-       sodipodi:role="line"
-       id="tspan4373"
-       x="156.12125"
-       y="228.95244"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">#iodc16</tspan></text>
 </svg>
