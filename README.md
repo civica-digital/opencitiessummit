@@ -1,7 +1,7 @@
 # Open Cities Summit
 
 * http://opencitiessummit.org
-* [Medialab-Prado](http://medialab-prado.es), Madrid, October 5th, 2016
+* Buenos Aires, September 24, 2018
 
 ## Web
 - Design created by [Martín González](https://twitter.com/martgnz) for
